@@ -1,4 +1,3 @@
 # react-documentation
-React specific notes and documentation / guidance
 
-## Check the Wiki for react documentation / guidance
+This repository contains a [https://github.com/bmtwebdevs/react-documentation/wiki] with information relating to using react and react architectures like flux/redux etc
